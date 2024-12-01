@@ -72,7 +72,7 @@
         <div id="container_24d810db">
           <div id="container_24d810db_padding" >
             <div class="textstyle3">
-              <img src="https://s2.loli.net/2024/11/30/EqZWDTMQX62ctn9.jpg" width="1076" height="1204" id="img_7b66f638" alt="" title="" />
+              <img src="https://raw.githubusercontent.com/yangruoyue/yangruoyue.github.io/refs/heads/main/89e03a570d79ae2329a9c68ed2a6d268.jpg" width="1076" height="1204" id="img_7b66f638" alt="" title="" />
               </div>
             <div style="clear:both"></div>
             </div>
