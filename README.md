@@ -50,7 +50,7 @@
         <div id="container_55cd82bf">
           <div id="container_55cd82bf_padding" >
             <div class="textstyle3">
-              <img src="https://s2.loli.net/2024/11/30/ofTgDt8ldhJFUnA.jpg" width="767" height="1024" id="img_3b77e554" alt="" title="" />
+              <img src="https://raw.githubusercontent.com/yangruoyue/yangruoyue.github.io/refs/heads/main/81740b4445b528b6d38a97bd4b68722b.jpg" width="767" height="1024" id="img_3b77e554" alt="" title="" />
               </div>
             <div style="clear:both"></div>
             </div>
