@@ -1,168 +1,125 @@
 <!DOCTYPE html>
 <html> 
 <head>
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="generator" content="RocketCake">
-	<title></title>
-	<link rel="stylesheet" type="text/css" href="index_html.css">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="generator" content="RocketCake">
+    <title></title>
+    <link rel="stylesheet" type="text/css" href="index_html.css">
 </head>
 <body>
 <div class="textstyle1">
-  <div id="container_6a5612c4">
-    <div id="container_6a5612c4_padding" >
+  <span class="textstyle2">G</span>
+  <div id="container_3e575098">
+    <div id="container_3e575098_padding" >
+      <div class="textstyle3">
+        <div id="text_1abba20d">
+          <div class="textstyle3">
+<span class="textstyle4">杨若</span><span class="textstyle4">悦</span>            </div>
+          </div>
+        <img src="https://raw.githubusercontent.com/yangruoyue/yangruoyue.github.io/refs/heads/main/6a74c57075ccd8e53e03c019d7a4ec4b.jpg" width="1920" height="854" id="img_41df46e" alt="" title="" />
+        <div id="text_46b0c69c">
+          <div class="textstyle3">
+            <span class="textstyle5">Hello<br/>welcome to my webpage <br/>杨若悦</span>
+            </div>
+          </div>
+        </div>
+      <div style="clear:both"></div>
+      </div>
+    </div>
+  <span class="textstyle2"><br/></span>
+  <div id="container_1f421e47">
+    <div id="container_1f421e47_padding" >
+      <div class="textstyle3">
+        <span class="textstyle6"><br/><br/></span>
+        </div>
       <div class="textstyle1">
+        <div id="container_74cc30ce">
+          <div id="container_74cc30ce_padding" >
+            <div class="textstyle3">
+<span class="textstyle7">GitHub offers a vast number of open-source projects, facilitating code hosting and version control, promoting team collaboration, and being conducive to knowledge sharing. It is an excellent platform for developers.<br/><br/></span>              <ul id="ul_2999867e" class="ulstyle1">
+                <li><span class="textstyle7">Programming</span>                  </li>
+                <li><span class="textstyle7">Sharing</span>                  </li>
+                <li><span class="textstyle7">Helping</span>                  </li>
+                <li><span class="textstyle7">Gain knowledge</span>                  </li>
+                </ul>
+              <span class="textstyle7">  <br/></span>
+              </div>
+            </div>
+          </div>
+        <div id="container_55cd82bf">
+          <div id="container_55cd82bf_padding" >
+            <div class="textstyle3">
+              <img src="https://s2.loli.net/2024/11/30/ofTgDt8ldhJFUnA.jpg" width="767" height="1024" id="img_3b77e554" alt="" title="" />
+              </div>
+            <div style="clear:both"></div>
+            </div>
+          </div>
+        </div>
+      <div class="textstyle3">
         <span class="textstyle2"><br/><br/><br/><br/></span>
-<h1 id="heading_3830d4d5">IT Solution Strategy</h1><span class="textstyle3"><br/></span><span class="textstyle4">We solve your</span>        <span class="textstyle3"> </span>
-        <span class="textstyle5">problem</span>
         </div>
       <div style="clear:both"></div>
       </div>
     </div>
-  <div id="container_23932c22">
-    <div id="container_23932c22_padding" >
+  <span class="textstyle2"><br/></span>
+  <div id="container_50443472">
+    <div id="container_50443472_padding" >
       <div class="textstyle1">
-        <div id="menu_3dae042d">
-          <div  class="menuholder1"><a href="javascript:void(0);">
-	<div id="menuentry_30ba40bc"  class="menustyle1 menu_3dae042d_mainMenuEntry mobileEntry">
-		<div class="menuentry_text1">
-            <span class="textstyle6">Menu ▼</span>
-		</div>
-	</div>
-</a>
-<a href="javascript:void(0);">
-	<div id="menuentry_64f37254"  class="menustyle1 menu_3dae042d_mainMenuEntry normalEntry">
-		<div class="menuentry_text2">
-            <span class="textstyle7">Home</span>
-		</div>
-	</div>
-</a>
-<a href="about.html" style="text-decoration:none">
-	<div id="menuentry_3f14847d"  class="menustyle2 menu_3dae042d_mainMenuEntry normalEntry">
-		<div class="menuentry_text2">
-            <span class="textstyle7">About</span>
-		</div>
-	</div>
-</a>
-<a href="contact.html" style="text-decoration:none">
-	<div id="menuentry_567eab73"  class="menustyle3 menu_3dae042d_mainMenuEntry normalEntry">
-		<div class="menuentry_text2">
-            <span class="textstyle7">Contact</span>
-		</div>
-	</div>
-</a>
-
-	<script type="text/javascript" src="rc_images/wsp_menu.js"></script>
-	<script type="text/javascript">
-		var js_menu_3dae042d= new wsp_menu('menu_3dae042d', 'menu_3dae042d', 10, null, true);
-
-		js_menu_3dae042d.createMenuForItem('menuentry_30ba40bc', ["            <span class=\"textstyle8\">Home</span> ", 'javascript:void(0);', '',
-		                                   "            <span class=\"textstyle8\">About</span> ", 'about.html', '',
-		                                   "            <span class=\"textstyle8\">Contact</span> ", 'contact.html', '']);
-		js_menu_3dae042d.createMenuForItem('menuentry_64f37254', []);
-		js_menu_3dae042d.createMenuForItem('menuentry_3f14847d', []);
-		js_menu_3dae042d.createMenuForItem('menuentry_567eab73', []);
-
-	</script>
+        <span class="textstyle6"><br/></span>
+<h2 id="heading_36175d75">Contact</h2><div id="anchor_58465b21"><a name="appointment"></a></div>
+        <span class="textstyle6"><br/><br/><br/></span>
+        <div id="container_24d810db">
+          <div id="container_24d810db_padding" >
+            <div class="textstyle3">
+              <img src="https://s2.loli.net/2024/11/30/EqZWDTMQX62ctn9.jpg" width="1076" height="1204" id="img_7b66f638" alt="" title="" />
+              </div>
+            <div style="clear:both"></div>
             </div>
           </div>
+        <div id="container_5937bf07">
+          <div id="container_5937bf07_padding" >
+            <div class="textstyle1">
+              <span class="textstyle7">Just give me a call or send me a mail:<br/><br/>1443196183@qq.com<br/>Phone: 18374285320<br/><br/></span>
+              <a href="mailto:gardening@example.com" style="text-decoration:none"><div id="button_32754fc4">
+                <div class="vcenterstyle1"><div class="vcenterstyle2">                  <div class="textstyle1">
+                    <span class="textstyle8">Send e-mail</span>
+                    </div>
+                  <div class="textstyle3">
+                    </div>
+                  </div></div>
+                </div></a>
+              <span class="textstyle7"> </span>
+              <a href="tel:55512345678" style="text-decoration:none"><div id="button_5353c50c">
+                <div class="vcenterstyle1"><div class="vcenterstyle2">                  <div class="textstyle1">
+<span class="textstyle8">Ca</span><span class="textstyle8">ll me</span>                    </div>
+                  <div class="textstyle3">
+                    </div>
+                  </div></div>
+                </div></a>
+              </div>
+            <div style="clear:both"></div>
+            </div>
+          </div>
+        <span class="textstyle2"><br/><br/><br/></span>
         </div>
       <div style="clear:both"></div>
       </div>
     </div>
-  <div id="container_22e4a421">
-    <div class="textstyle1">
-      <div id="container_4df4f27">
-        <div id="container_4df4f27_padding" >
-          <div class="textstyle9">
-<span class="textstyle10"><br/><br/>See for example this nice placholder text: Ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br/></span>            </div>
-          <div class="textstyle1">
-<span class="textstyle10"><br/> </span>            <a href="about.html" style="text-decoration:none"><div id="button_1fa0001a">
-              <div class="vcenterstyle1"><div class="vcenterstyle2">                <div class="textstyle1">
-                  <span class="textstyle11">About us</span>
-                  </div>
-                <div class="textstyle9">
-                  </div>
-                </div></div>
-              </div></a>
-            <span class="textstyle2"> </span>
-            <a href="contact.html" style="text-decoration:none"><div id="button_7b672672">
-              <div class="vcenterstyle1"><div class="vcenterstyle2">                <div class="textstyle1">
-                  <span class="textstyle11">Contact</span>
-                  </div>
-                <div class="textstyle9">
-                  </div>
-                </div></div>
-              </div></a>
-            </div>
-          <div class="textstyle9">
-            <span class="textstyle12"><br/><br/></span>
-            </div>
-          <div style="clear:both"></div>
-          </div>
+  <span class="textstyle2"><br/></span>
+  <div id="container_7c6af539">
+    <div id="container_7c6af539_padding" >
+      <div class="textstyle3">
+        <span class="textstyle2"><br/><br/></span>
         </div>
+      <div class="textstyle1">
+<h2 id="heading_1bdf4e8c">Achievements made</h2>        </div>
+      <div class="textstyle3">
+<span class="textstyle6"><br/></span><span class="textstyle2"><br/><br/><br/><br/><br/><br/></span>        </div>
+      <div style="clear:both"></div>
       </div>
     </div>
-  <span class="textstyle13"><br/></span>
-  <div id="container_358e6472">
-    <div class="textstyle1">
-      <span class="textstyle10"><br/><br/></span>
-      <div id="container_638ba834">
-        <div id="container_638ba834_padding" >
-          <div class="textstyle9">
-            <div id="container_1364a63e">
-              <div id="container_1364a63e_padding" >
-                <div class="textstyle9">
-                  <span class="textstyle14">☼ </span>
-<span class="textstyle15"><br/></span><span class="textstyle16">Best Service</span><span class="textstyle13"><br/><br/>E</span><span class="textstyle2">x ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</span>                  </div>
-                </div>
-              </div>
-            <div id="container_478afb3">
-              <div id="container_478afb3_padding" >
-                <div class="textstyle9">
-<span class="textstyle14">♺</span><span class="textstyle17"><br/></span><span class="textstyle16">Eco-friendly</span><span class="textstyle13"><br/><br/>Dolor </span>                  <span class="textstyle2">in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Ut aliquip ex ea commodo consequat. </span>
-                  </div>
-                </div>
-              </div>
-            <div id="container_4ae1bf1e">
-              <div id="container_4ae1bf1e_padding" >
-                <div class="textstyle9">
-<span class="textstyle18">♞</span><span class="textstyle16"><br/>Fast</span><span class="textstyle13"><br/><br/>Voluptate velit esse cillum dolore eu fugiat nulla pariatur. Ut aliquip ex ea commodo consequat. Duis aute irure. Fugiat nulla pariatur  fugiat nulla pariatur.</span>                  </div>
-                </div>
-              </div>
-            </div>
-          <div style="clear:both"></div>
-          </div>
-        </div>
-<span class="textstyle10"><br/></span><span class="textstyle19"><br/><br/></span>      </div>
-    </div>
-  <span class="textstyle13"><br/></span>
-  <div id="container_6aa538fc">
-    <div class="textstyle1">
-      <span class="textstyle10"><br/><br/></span>
-      <div id="container_66ca5416">
-        <div id="container_66ca5416_padding" >
-          <div class="textstyle9">
-<span class="textstyle10"><br/>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br/><br/></span>            </div>
-          <div class="textstyle1">
-<span class="textstyle10">Call us any time:<br/></span><span class="textstyle19">+99 1234 5678 90123<br/></span>            <a href="tel:+99 1234 5678 90123" style="text-decoration:none"><div id="button_3ce31f95">
-              <div class="vcenterstyle1"><div class="vcenterstyle2">                <div class="textstyle1">
-                  <span class="textstyle11">Call now</span>
-                  </div>
-                <div class="textstyle9">
-                  </div>
-                </div></div>
-              </div></a>
-            </div>
-          <div class="textstyle9">
-            <span class="textstyle19"><br/><br/></span>
-            </div>
-          <div style="clear:both"></div>
-          </div>
-        </div>
-<span class="textstyle10"><br/><br/><br/><br/><br/><br/></span><span class="textstyle19"><br/></span>      </div>
-    </div>
-  <span class="textstyle20"><br/></span>
   </div>
 </body>
 </html>
+
